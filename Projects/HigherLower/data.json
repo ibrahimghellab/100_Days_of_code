@@ -1,0 +1,361 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "follower_count": 615,
+    "description": "Footballer, one of the greatest players of all time",
+    "country": "Portugal"
+  },
+  {
+    "name": "Lionel Messi",
+    "follower_count": 500,
+    "description": "Footballer, 8-time Ballon d'Or winner",
+    "country": "Argentina"
+  },
+  {
+    "name": "Selena Gomez",
+    "follower_count": 430,
+    "description": "Singer and actress, founder of Rare Beauty",
+    "country": "USA"
+  },
+  {
+    "name": "Dwayne 'The Rock' Johnson",
+    "follower_count": 395,
+    "description": "Actor and former professional wrestler",
+    "country": "USA"
+  },
+  {
+    "name": "Kylie Jenner",
+    "follower_count": 400,
+    "description": "Entrepreneur and social media personality",
+    "country": "USA"
+  },
+  {
+    "name": "Ariana Grande",
+    "follower_count": 380,
+    "description": "Pop singer and actress",
+    "country": "USA"
+  },
+  {
+    "name": "Kim Kardashian",
+    "follower_count": 365,
+    "description": "Reality TV star and businesswoman",
+    "country": "USA"
+  },
+  {
+    "name": "Beyoncé",
+    "follower_count": 320,
+    "description": "Singer, actress, and cultural icon",
+    "country": "USA"
+  },
+  {
+    "name": "LeBron James",
+    "follower_count": 160,
+    "description": "Professional basketball player",
+    "country": "USA"
+  },
+  {
+    "name": "Billie Eilish",
+    "follower_count": 115,
+    "description": "Singer-songwriter, multiple Grammy winner",
+    "country": "USA"
+  },
+  {
+    "name": "Elon Musk",
+    "follower_count": 95,
+    "description": "CEO of Tesla and SpaceX",
+    "country": "USA"
+  },
+  {
+    "name": "Taylor Swift",
+    "follower_count": 280,
+    "description": "Singer-songwriter, one of the best-selling artists",
+    "country": "USA"
+  },
+  {
+    "name": "Zendaya",
+    "follower_count": 190,
+    "description": "Actress and singer, known for 'Euphoria' and 'Spider-Man'",
+    "country": "USA"
+  },
+  {
+    "name": "Vin Diesel",
+    "follower_count": 105,
+    "description": "Actor, known for the 'Fast & Furious' franchise",
+    "country": "USA"
+  },
+  {
+    "name": "David Beckham",
+    "follower_count": 85,
+    "description": "Former footballer, global sports icon",
+    "country": "UK"
+  },
+  {
+    "name": "Justin Bieber",
+    "follower_count": 290,
+    "description": "Pop singer and songwriter",
+    "country": "Canada"
+  },
+  {
+    "name": "Rihanna",
+    "follower_count": 155,
+    "description": "Singer, businesswoman, founder of Fenty Beauty",
+    "country": "Barbados"
+  },
+  {
+    "name": "Drake",
+    "follower_count": 145,
+    "description": "Rapper and singer, one of the best-selling artists",
+    "country": "Canada"
+  },
+  {
+    "name": "Shakira",
+    "follower_count": 110,
+    "description": "Singer, known for hits like 'Hips Don't Lie'",
+    "country": "Colombia"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "follower_count": 105,
+    "description": "Actor, known for playing Thor in the MCU",
+    "country": "Australia"
+  },
+  {
+    "name": "Emma Watson",
+    "follower_count": 100,
+    "description": "Actress, known for 'Harry Potter' and activism",
+    "country": "UK"
+  },
+  {
+    "name": "Jennifer Lopez",
+    "follower_count": 250,
+    "description": "Singer, actress, and businesswoman",
+    "country": "USA"
+  },
+  {
+    "name": "Ed Sheeran",
+    "follower_count": 85,
+    "description": "Singer-songwriter, known for 'Shape of You'",
+    "country": "UK"
+  },
+  {
+    "name": "Shawn Mendes",
+    "follower_count": 75,
+    "description": "Pop singer and songwriter",
+    "country": "Canada"
+  },
+  {
+    "name": "Megan Fox",
+    "follower_count": 70,
+    "description": "Actress, known for 'Transformers'",
+    "country": "USA"
+  },
+  {
+    "name": "Bruno Mars",
+    "follower_count": 65,
+    "description": "Singer-songwriter, known for '24K Magic'",
+    "country": "USA"
+  },
+  {
+    "name": "Post Malone",
+    "follower_count": 60,
+    "description": "Rapper and singer, known for 'Circles'",
+    "country": "USA"
+  },
+  {
+    "name": "Tom Holland",
+    "follower_count": 85,
+    "description": "Actor, known for playing Spider-Man in the MCU",
+    "country": "UK"
+  },
+  {
+    "name": "Lady Gaga",
+    "follower_count": 58,
+    "description": "Singer, actress, and fashion icon",
+    "country": "USA"
+  },
+  {
+    "name": "Kevin Hart",
+    "follower_count": 180,
+    "description": "Comedian and actor",
+    "country": "USA"
+  },
+  {
+    "name": "Keanu Reeves",
+    "follower_count": 45,
+    "description": "Actor, known for 'The Matrix' and 'John Wick'",
+    "country": "Canada"
+  },
+  {
+    "name": "Will Smith",
+    "follower_count": 75,
+    "description": "Actor and rapper, known for 'Men in Black'",
+    "country": "USA"
+  },
+  {
+    "name": "Jackie Chan",
+    "follower_count": 50,
+    "description": "Martial artist, actor, and stuntman",
+    "country": "Hong Kong"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "follower_count": 90,
+    "description": "Actor, known for playing Iron Man in the MCU",
+    "country": "USA"
+  },
+  {
+    "name": "Henry Cavill",
+    "follower_count": 35,
+    "description": "Actor, known for 'Superman' and 'The Witcher'",
+    "country": "UK"
+  },
+  {
+    "name": "Timothée Chalamet",
+    "follower_count": 22,
+    "description": "Actor, known for 'Dune' and 'Call Me by Your Name'",
+    "country": "USA"
+  },
+  {
+    "name": "Pedro Pascal",
+    "follower_count": 12,
+    "description": "Actor, known for 'The Mandalorian' and 'The Last of Us'",
+    "country": "Chile"
+  },
+  {
+    "name": "Zendaya",
+    "follower_count": 190,
+    "description": "Actress and singer, known for 'Euphoria' and 'Spider-Man'",
+    "country": "USA"
+  },
+  {
+    "name": "Millie Bobby Brown",
+    "follower_count": 70,
+    "description": "Actress, known for 'Stranger Things'",
+    "country": "UK"
+  },
+  {
+    "name": "Tom Cruise",
+    "follower_count": 14,
+    "description": "Actor, known for 'Mission: Impossible'",
+    "country": "USA"
+  },
+  {
+    "name": "Anya Taylor-Joy",
+    "follower_count": 20,
+    "description": "Actress, known for 'The Queen's Gambit'",
+    "country": "USA"
+  },
+  {
+    "name": "Ryan Reynolds",
+    "follower_count": 50,
+    "description": "Actor, known for 'Deadpool'",
+    "country": "Canada"
+  },
+  {
+    "name": "Margot Robbie",
+    "follower_count": 40,
+    "description": "Actress, known for 'Barbie' and 'Suicide Squad'",
+    "country": "Australia"
+  },
+  {
+    "name": "Cillian Murphy",
+    "follower_count": 6,
+    "description": "Actor, known for 'Peaky Blinders' and 'Oppenheimer'",
+    "country": "Ireland"
+  },
+  {
+    "name": "Christian Bale",
+    "follower_count": 3,
+    "description": "Actor, known for 'The Dark Knight' trilogy",
+    "country": "UK"
+  },{
+    "name": "Michael Jordan",
+    "follower_count": 33,
+    "description": "Basketball legend, 6-time NBA champion",
+    "country": "USA"
+  },
+  {
+    "name": "Serena Williams",
+    "follower_count": 17,
+    "description": "Tennis champion, 23 Grand Slam titles",
+    "country": "USA"
+  },
+  {
+    "name": "Usain Bolt",
+    "follower_count": 13,
+    "description": "Sprinter, 8-time Olympic gold medalist",
+    "country": "Jamaica"
+  },
+  {
+    "name": "Conor McGregor",
+    "follower_count": 52,
+    "description": "MMA fighter, former UFC champion",
+    "country": "Ireland"
+  },
+  {
+    "name": "Roger Federer",
+    "follower_count": 12,
+    "description": "Tennis legend, 20 Grand Slam titles",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "follower_count": 36,
+    "description": "Formula 1 driver, 7-time world champion",
+    "country": "UK"
+  },
+  {
+    "name": "Novak Djokovic",
+    "follower_count": 15,
+    "description": "Tennis player, 24 Grand Slam titles",
+    "country": "Serbia"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "follower_count": 110,
+    "description": "Footballer, World Cup winner",
+    "country": "France"
+  },
+  {
+    "name": "Neymar Jr.",
+    "follower_count": 210,
+    "description": "Footballer, known for his flair and skills",
+    "country": "Brazil"
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "follower_count": 60,
+    "description": "Footballer, known for his confidence and skills",
+    "country": "Sweden"
+  },
+  {
+    "name": "Gordon Ramsay",
+    "follower_count": 45,
+    "description": "Celebrity chef and TV personality",
+    "country": "UK"
+  },
+  {
+    "name": "David Goggins",
+    "follower_count": 8,
+    "description": "Endurance athlete, ex-Navy SEAL, motivational speaker",
+    "country": "USA"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "follower_count": 10,
+    "description": "Co-founder of Facebook",
+    "country": "USA"
+  },
+  {
+    "name": "Jeff Bezos",
+    "follower_count": 5,
+    "description": "Founder of Amazon",
+    "country": "USA"
+  },
+  {
+    "name": "Warren Buffett",
+    "follower_count": 2,
+    "description": "Investor, one of the richest people in the world",
+    "country": "USA"
+  }
+]
